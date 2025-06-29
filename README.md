@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/895309a6-ae63-4939-9bac-54dec69056a7" alt="Siba Prasad Padhi Banner" style="width:90%;"/>
+
 # 👋 Hey there! I'm Siba Prasad Padhi
 
 💻 I love building cool stuff with code.  
