@@ -19,7 +19,7 @@
 ## 📊 GitHub Stats
 ![Siba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sibap-dev&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sibap-dev&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sibap-dev&layout=compact&theme=radical)
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sibap-dev&color=blue)
